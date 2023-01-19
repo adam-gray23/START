@@ -58,4 +58,6 @@ Click on new and type into the field '%START_HOME%'. Then click ok followed by o
 
 You have now successfully installed START.
 
+--------------------
+
 
