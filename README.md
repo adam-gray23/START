@@ -70,7 +70,6 @@ please feel free to email either of us at:
 - Adam Gray: adamgray8432@mail.com
 
 
-
 # Install Instructions
 
 The following are install instructions fo rthe START programming language.
