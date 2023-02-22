@@ -131,7 +131,7 @@ You have now successfully installed START.
 
 --------------------
 
-https://drive.google.com/file/d/1OlHcobJij4jRtoT1Tak6yDF77SkIMR96/view?usp=sharing
+https://user-images.githubusercontent.com/99756929/220695322-16baa64e-4d10-44c0-8534-5b09bcf7c659.mov
 
 --------------------
 
