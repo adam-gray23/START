@@ -76,9 +76,6 @@ The following are install instructions fo rthe START programming language.
 If you would like a version of this guide with added visual supports, follow this link:
 https://purrfect-timbale-476.notion.site/Install-Instructions-3d51a616bf814e688d80e63595aae1be
 
-Alternatively, if you would like a video walkthrough of the install process, follow this link:
-https://drive.google.com/file/d/1OlHcobJij4jRtoT1Tak6yDF77SkIMR96/view?usp=sharing
-
 ### Instructions
 
 ##### Pre-requisites:
