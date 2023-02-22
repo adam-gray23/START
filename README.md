@@ -42,7 +42,7 @@ a very short space of time, be able to fully use all of START's features.
 
 START was developed using Java, and was intended to be run on Windows, however,
 it can indeed be run on other operating systems, such as Linux and MacOS,
-however, you will need toconfigure START onto your machines PATH, and
+however, you will need to configure START onto your machines PATH, and
 create your own start1 file to run the programs.
 
 ### Why START?
