@@ -30,6 +30,7 @@ the following link: https://purrfect-timbale-476.notion.site/Start-An-Easy-to-Le
       - [Step 8](#step-8)
       - [Step 9](#step-9)
       - [Step 10](#step-10)
+  - [Install Video](#install-video)
   - [Running a START program](#running-a-start-program)
 
 ## Introduction
